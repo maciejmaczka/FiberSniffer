@@ -13,12 +13,14 @@ Szyfratory jako remedium na podsłuch - także światłowodu!
 
 
 Czy można podsłuchać światłowód?
-https://youtu.be/2JBHYF7HzZY
+
+
+[![Watch the video](/jpg/3.png)](https://youtu.be/2JBHYF7HzZY) 
 
 
 Konfiguracja szyfratorów Gemalto
-https://youtu.be/hJ6xX_OtvhM
 
 
+[![Watch the video](/jpg/4.png)](https://youtu.be/hJ6xX_OtvhM) 
 
-/jpg/1.png
+
